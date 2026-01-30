@@ -1,0 +1,47 @@
+/* Tighten spacing between paper line and Abstract toggle */
+.page__content p {
+  margin-bottom: 0.3em;
+}
+
+/* Pull Abstract toggle closer to the paper line */
+details {
+  margin-top: 0;
+  margin-bottom: 1.4em; /* keep nice space before next entry */
+}
+
+details summary {
+  margin-top: 0;
+}
+
+
+/* Tighten spacing between title line and abstract toggle */
+details {
+  margin-top: 0.3em;
+  margin-bottom: 1.4em;  /* space before next paper */
+}
+
+/* Make the Abstract toggle feel attached to the title */
+details summary {
+  margin-top: 0.2em;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+/* Optional: slightly indent abstract text */
+details p {
+  margin-top: 0.6em;
+  margin-left: 0.5em;
+}
+
+/* Change color of abstract toggle arrow */
+details summary {
+  color: #cccccc;
+}
+details summary:hover {
+  color: #ffffff;
+}
+
+/* Increase spacing between paragraphs on content pages */
+.page__content p {
+  margin-bottom: 1.2em;
+}

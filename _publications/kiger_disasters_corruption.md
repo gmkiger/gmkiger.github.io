@@ -1,0 +1,17 @@
+---
+title: "Windfall or Washout? Disaster Relief and Corruption in Local Governments"
+collection: publications
+# permalink: /publication/disaster-corruption/
+# collection: research
+permalink: /research/disaster-corruption/
+excerpt: "I study whether temporary disaster relief funding increases corruption and lowers candidate quality in Brazilian municipalities, using randomized federal audits."
+date: 2026-01-21
+venue: "Working paper"
+category: working-paper
+pub_status: "working-paper"
+paperurl: "/files/kiger_disasters_corruption_jan212026.pdf"
+abstract: "Natural disasters channel vast sums of money to local officials within days, often with few restrictions. While vital for relief, these transfers also create opportunities for misuse. Why do some local governments turn disaster relief into public goods, while others divert it for private gain? I argue that disaster relief is a special type of revenue windfall: unexpected, non-tax income that expands local budgets. Unlike more permanent federal transfers, disaster relief is both temporary and costly to steal. Disasters expand local budgets but also heighten scrutiny through citizen mobilization, media coverage, and the threat of punishment. I develop a political agency model that shows how these features produce two outcomes: local politicians divert more funds in the short term, but the temporary nature of relief prevents lower-quality challengers from entering politics. I test these claims across 5,570 Brazilian municipalities from 1996–2021 using a novel measure of flood exposure that combines satellite imagery, rainfall, and streamflow data. Results show that flood exposure increases municipal revenues by approximately $64,000 two years later, and raises detected corruption in randomized audits by about 16 percent over the same horizon. However, challenger quality remains unchanged. These findings highlight the trade-offs governments face in designing disaster relief institutions that must deliver aid rapidly while maintaining accountability."
+---
+
+**Abstract.**  
+Natural disasters channel vast sums of money to local officials within days, often with few restrictions. While vital for relief, these transfers also create opportunities for misuse. Why do some local governments turn disaster relief into public goods, while others divert it for private gain? I argue that disaster relief is a special type of revenue windfall: unexpected, non-tax income that expands local budgets. Unlike more permanent federal transfers, disaster relief is both temporary and costly to steal. Disasters expand local budgets but also heighten scrutiny through citizen mobilization, media coverage, and the threat of punishment. I develop a political agency model that shows how these features produce two outcomes: local politicians divert more funds in the short term, but the temporary nature of relief prevents lower-quality challengers from entering politics. I test these claims across 5,570 Brazilian municipalities from 1996–2021 using a novel measure of flood exposure that combines satellite imagery, rainfall, and streamflow data. Results show that flood exposure increases municipal revenues by approximately $64,000 two years later, and raises detected corruption in randomized audits by about 16 percent over the same horizon. However, challenger quality remains unchanged. These findings highlight the trade-offs governments face in designing disaster relief institutions that must deliver aid rapidly while maintaining accountability.
